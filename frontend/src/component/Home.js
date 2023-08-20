@@ -1,5 +1,5 @@
 import Notes from "./Notes";
-import backgroundImage from "./libimage.webp";
+// import backgroundImage from "./libimage.webp";
 const Home = (props) => {
 
   return (
